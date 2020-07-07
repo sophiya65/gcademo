@@ -1,4 +1,3 @@
-Hello everyone my name is Sophiya Maharjan.
-I live in patan,lalitpur.
-I am currently studying BSc.CSIT in Vedas College. 
-This is my 2nd gca class.
+
+I am studying git and github branching today.
+
